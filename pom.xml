@@ -534,10 +534,10 @@
      </repository>
 
      <snapshotRepository>
-         <id>snapshots</id>
-         <name>Snapshots</name>
-         <url>http://wireshark:8081/nexus/content/repositories/snapshots/</url>
-     </snapshotRepository>
+         <id>123</id>
+         <name>Notes</name>
+         <url>http://192.168.1.64:8081/nexus/content/repositories/123/
+     </NotesRepository>
 
 </distributionManagement>
     
