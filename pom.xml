@@ -542,3 +542,14 @@
 </distributionManagement>
     
   </project>
+    
+ <server>
+                  <id>123</id>
+                  <username>admin</username>
+                  <password>admin123</password>
+</serve>
+<server>
+                  <id>Notes</id>
+                  <username>admin</username>
+                  <password>admin123</password>
+    </server>
